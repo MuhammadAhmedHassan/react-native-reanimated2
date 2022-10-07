@@ -1,0 +1,8 @@
+{
+  "name": "AdMobReactNative",
+  "displayName": "AdMobReactNative",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-4248751683828193~8008597049",
+    "ios_app_id": "ca-app-pub-4248751683828193~8008597049"
+  }
+}
