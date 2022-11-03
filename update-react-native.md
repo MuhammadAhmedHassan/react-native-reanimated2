@@ -1,0 +1,4 @@
+- info React Native v0.70.4 is now available (your project is running on v0.70.1).
+- info Changelog: https://github.com/facebook/react-native/releases/tag/v0.70.4
+- info Diff: https://react-native-community.github.io/upgrade-helper/?from=0.70.1
+- info To upgrade, run "react-native upgrade".
