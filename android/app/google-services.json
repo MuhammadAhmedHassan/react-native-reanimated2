@@ -1,39 +1,38 @@
 {
   "project_info": {
-    "project_number": "838171241978",
-    "project_id": "ecommerce-25b42",
-    "storage_bucket": "ecommerce-25b42.appspot.com"
+    "project_number": "995697820674",
+    "project_id": "push-notifications-eaed2",
+    "storage_bucket": "push-notifications-eaed2.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:838171241978:android:37cb2f3dd9a14c1a404843",
+        "mobilesdk_app_id": "1:995697820674:android:69e5952170b8c410c6131b",
         "android_client_info": {
           "package_name": "com.admobreactnative"
         }
       },
       "oauth_client": [
         {
-          "client_id": "838171241978-hj5iu8agirga6oaes52anbkonucnbj0f.apps.googleusercontent.com",
+          "client_id": "995697820674-50v87sr886us6bv1vocmi36ksjf573ce.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAriwE4TuSSIdf39YUCxdhKgjHsE9ZOZk0"
+          "current_key": "AIzaSyAg6f0x5e1Uk-piW_oshb713Za1BGy_Zvg"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "838171241978-hj5iu8agirga6oaes52anbkonucnbj0f.apps.googleusercontent.com",
+              "client_id": "995697820674-50v87sr886us6bv1vocmi36ksjf573ce.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
         }
-      },
-      "admob_app_id": "ca-app-pub-4248751683828193~8008597049"
+      }
     }
   ],
   "configuration_version": "1"
